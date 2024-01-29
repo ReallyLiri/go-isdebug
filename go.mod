@@ -1,4 +1,4 @@
-module github.com/ReallyLiri/isdebug
+module github.com/ReallyLiri/go-isdebug
 
 go 1.21.0
 
